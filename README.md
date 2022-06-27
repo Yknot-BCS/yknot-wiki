@@ -1,6 +1,6 @@
 # Yknot Wiki
 
-⚓ _Ahoy! Welcome to the Yknot chest of knowledge. Here the crew likes to share things that they found usefull. We heartily encourage contribution. Just make ye pull request._
+⚓ _Ahoy! Welcome to the Yknot chest of knowledge. Here the crew likes to share things that they found useful. We heartily encourage contribution. Just make ye pull request._
 
 ## VS Code
 
