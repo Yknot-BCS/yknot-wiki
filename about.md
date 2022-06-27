@@ -26,6 +26,8 @@ You will often work in a team consisting of crew and contractors. Teams are alwa
 We invite you to hang with us on our [#upper-deck](https://discord.gg/GNmzHygT) on Discord.
 
 ## Development Process
+Venture with us into the unknown. We know the ropes when it comes to building blockchain-based solutions
+
 Our software development lifecycle usually looks like this:
 1. Gather requirements
 2. Design the solution - System Architecture & UX/UI Design
@@ -35,6 +37,7 @@ Our software development lifecycle usually looks like this:
 6. Maintenance & upgrades
  
 ## Project Management Methodology
-Our projects are managed on Jira. 
-Ongoing dev work mostly rely on self-lead teams and regular feedback loops. 
-On time-based projects we use SCRUM from the [Agile Project Management Methodology](docs/agile.md).
+- Our projects are managed on Jira. 
+- Ongoing dev work mostly rely on self-lead teams and regular feedback loops. 
+- On time-based projects we use SCRUM from the [Agile Project Management Methodology](docs/agile.md).
+- Everyone logs their time on [Clockify](https://clockify.me)
