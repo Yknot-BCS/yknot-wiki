@@ -18,8 +18,8 @@ We also run a block producer for the network - [bp.knot](https://eosauthority.co
 
 It's safe to say we're pretty involved. 
 
-## Here are a few handy links:
-### Developing on Telos
+# Here are a few handy links:
+## :wrench: Developing on Telos
 [Telos Website](https://www.telos.net/)
 
 [Telos Network Portal](https://app.telos.net/testnet/developers)
@@ -30,17 +30,17 @@ Contribute to telosnetwork/ui-template development
 [Getting Started on Telos for Developers](https://docs.telos.net/for-developers/getting-started-for-developers) 
 Developing Telos Native dApps or deploying Ethereum EVM dApps on tEVM.
 
-### Block Explorer
+## :mag: Block Explorer
 [Block Explorer](https://eosauthority.com/?network=telos)
 
 
-### EOSIO
+## :globe_with_meridians: EOSIO
 [Developer Portal for EOSIO](https://developers.eos.io/welcome/latest/index) 
 EOSIO is a next-generation, open-source blockchain protocol with industry-leading transaction speed and flexible utility.
 
 [The Jungle EOIO Testnet](https://jungletestnet.io/)
 
-### Buying & Trading on Telos
+## :money_with_wings: Buying & Trading on Telos
 [Creating a Telos account](https://www.telos.net/signup)
 
 [Swapping & Brdiging on T-Swaps](https://www.tswaps.com)
@@ -48,7 +48,7 @@ EOSIO is a next-generation, open-source blockchain protocol with industry-leadin
 [Telos Knowledge Base](https://help.telos.net)
 User guides and educational content related to deposits, withdrawals, NFTs and security.
 
-### MetaMask
+## 🦊 MetaMask
 Do you have some TLOS in your metamask account?
 If not, you can use https://wallet-dev.telos.net/balance 
 To send to that metamask address
