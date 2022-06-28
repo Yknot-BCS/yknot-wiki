@@ -32,9 +32,9 @@ Before each sprint starts there will be a sprint meeting, in which the team deci
 
 ## :calendar: 3. Sprint meetings (stand-ups)
 This is a super-short meeting that happens at the same time every few days. Many teams try to complete the meeting in 15 minutes - as if they could do it without sitting down. 
-You need to be able to comment on these 3 questions in a 
--  What did I do yesterday?
-- What do I plan to do over the next 2 days?
-- Are there any obstacles?
+You need to be able to comment on these 3 questions in every sprint meeting:
+-  What did I do since our last meeting?
+- What do I plan to do until our next meeting?
+- Are there any obstacles that will keep me from completing my tasks?
 
 Learn more about Agile & Scrum on [Atlassian.com](https://www.atlassian.com/agile/scrum)
