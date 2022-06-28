@@ -26,15 +26,21 @@ This is a dynamic list of features, requirements, enhancements, and fixes that a
 ## 🏃 2.	Sprint
 A sprint is a short, time-boxed period when a scrum team works to **complete a set amount of work**.  
 **One to two weeks** is a pretty typical length for a sprint. 
+> "Sprints make projects more manageable, allow teams to ship high-quality work faster and more frequently, and gives them more flexibility to adapt to change." [Atlassian](https://www.atlassian.com/agile/scrum/sprints)
 
 The development team (this is you 👈) pulls work from the backlog as there is capacity for it. 
 Before each sprint starts there will be a sprint meeting, in which the team decides **who will do what**. 
 
 ## :calendar: 3. Sprint meetings (stand-ups)
-A super-short meeting that happens at the same time every few days. Many teams try to complete the meeting in 15 minutes - as if they could do it without sitting down (hence the name: stand-up). 
+A super-short meeting that happens at the same time every few days.
+> "In many sports the team huddles before each play. The huddle is strategic: it keeps the team informed, connected, and calibrated throughout the game. For software teams, the stand-up is like the team’s huddle. It’s even commonly known as the daily scrum, and reinforces “we” to keep everyone aware of the team’s landscape and progress." [Atlassian](https://www.atlassian.com/agile/scrum/standups)
+
+
 Be prepared to comment on these 3 questions in every sprint meeting:
 -  What did I do since our last meeting?
 - What do I plan to do until our next meeting?
 - Are there any obstacles that will keep me from completing my tasks?
+
+---
 
 Learn more about Agile & Scrum on [Atlassian.com](https://www.atlassian.com/agile/scrum)
