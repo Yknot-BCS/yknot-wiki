@@ -45,11 +45,21 @@ Be prepared to comment on these 3 questions in every sprint meeting:
 
 Here we list a few practical considerations that we found useful.
 
+## 👍 Good practice
+
+- Do time or difficulty (story point) estimation before starting with a task; keep track of your time; and compare with your estimate afterwards.
+- Notify and remind reviewers about pull-requests.
+- Do issue status updates before the scrum session.
+- Pull-requests should not be left open longer than 10 hours.
+- Scrum sessions should be kept short. In general, only talk about things that concerns at least half of the group.
+- Each pull-request should only include a single task.
+- Close branches after merging a pull-request.
+- Jump on the next task if you are blocked on a specific task. 
+- Feel free to take issues from the backlog if you are done with your set of assigned issues.
+
 ## 🐙 Github integration
 
 When we do project management on Jira, we like to create a new branch for every new issue. This makes it easier to track the task. All you need to do is to follow the correct naming convention for new branches.
-
-**Branch naming convention**
 
 Start your branch name with the issue code and then the issue title, divided by dashes. For example `LEG-230-setup`.
 
