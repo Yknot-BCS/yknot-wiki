@@ -2,6 +2,13 @@
 
 ⚓ _Ahoy! Welcome to the Yknot chest of knowledge. Here the crew likes to share things that they found useful. We heartily encourage contribution. Just make ye pull request._
 
-## Resources
+## Overview
 
-- [VS Code](https://github.com/Yknot-BCS/yknot-wiki/blob/6ee0925122f1662275fdc3c82687c0e4bdbda411/resources/vscode.md)
+- Yknot and Partners
+  - [Yknot BCS](about.md)
+  - [Telos](telos.md)
+- Project Management
+  - [Agile](./agile/agile.md)
+- Developer resources
+  - [VS Code](./resources/vscode.md)
+  - [Husky](./resources/husky/husky.md)
