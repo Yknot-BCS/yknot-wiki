@@ -12,3 +12,5 @@
 - Developer resources
   - [VS Code](./resources/vscode.md)
   - [Husky](./resources/husky/husky.md)
+- Setup
+  - [CPanel Email](./setup/cpanel-email/email.md)
