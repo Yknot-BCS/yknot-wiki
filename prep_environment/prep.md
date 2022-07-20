@@ -25,6 +25,7 @@ You can follow the installation instructions at: https://classic.yarnpkg.com/en/
 
 - Add the Vue and Quasar packages
 <br>
+
 > yarn global add @vue/cli <br>
 yarn global add @quasar/cli
 
