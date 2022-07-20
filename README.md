@@ -14,3 +14,4 @@
   - [Husky](./resources/husky/husky.md)
 - Setup
   - [CPanel Email](./setup/cpanel-email/email.md)
+  - [Prepping the VS Code environment](./prep_environment/prep.md)
