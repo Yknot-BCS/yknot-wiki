@@ -49,11 +49,14 @@ Then type the following  in the command window, and paste the copied HTTPS link 
 You will need to specify the location of the cloned repository
 
 ---
+
 - Copy the example .env file to .env
 <br>Within the VS Code environment, at the top left is an option to select the 'Terminal'. Click this option and select the 'New Terminal' option. The VS terminal will be availible at the bottom of the screen, which resembles the command window. Then add the following command into the VS code terminal.
 > cp .env.example .env
 <br>
+
 ---
+
 - Prep the environment
 <br> Within this terminal add the following command and run.
 > yarn
@@ -64,6 +67,7 @@ To check the current version of yarn you have you can enter the command below:
 > yarn --version
 
 ---
+
 - Start the app in development mode
 <br> The following commands can be used to start the webapp on your local device, which will not influence the main branch of the repo.
 
