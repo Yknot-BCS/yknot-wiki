@@ -35,6 +35,7 @@ These commands can be pasted into the command window/Powershell and hit Enter.
 
 - <b>Clone</b> the Github repository onto your device
 <br>In order to do this, find the the desired GitHub repo, click on the green Code button and copy the HTTPS link.
+
 ![Clone repo](Clone-Repo.png)
 
 Then type the following  in the command window, and paste the copied HTTPS link next to it as shown in the example below:
