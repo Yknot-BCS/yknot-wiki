@@ -44,7 +44,7 @@ Our software development lifecycle usually looks like this:
 
 * Our projects are managed on Jira.
 * Ongoing dev work mostly rely on self-lead teams and regular feedback loops.
-* On time-based projects we use SCRUM from the [Agile Project Management Methodology](../docs/agile.md).
+* On time-based projects we use SCRUM from the [Agile Project Management Methodology](docs/agile.md).
 
 ## :money\_with\_wings: Time Tracking & Invoices
 

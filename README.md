@@ -5,7 +5,7 @@
 ## Overview
 
 * Yknot and Partners
-  * [Yknot BCS](about/)
+  * [Yknot BCS](about.md)
   * [Telos](telos.md)
 * Project Management
   * [Agile](agile/agile.md)

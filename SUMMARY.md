@@ -2,10 +2,12 @@
 
 * [Yknot Wiki](README.md)
   * [Strategy](readme/strategy.md)
-* [Yknot Blockchain Solutions](about/README.md)
+* [Yknot Blockchain Solutions](about.md)
   * [Intro](about/intro.md)
   * [Crew](about/crew.md)
   * [Project Management](about/project-management.md)
+  * [Invoicing & Time Tracking](about/invoicing-and-time-tracking.md)
+  * [On-Boarding](about/on-boarding.md)
 * [telos](telos.md)
 * [agile](agile/README.md)
   * [agile](agile/agile.md)
@@ -18,4 +20,3 @@
 * [setup](setup/README.md)
   * [cpanel-email](setup/cpanel-email/README.md)
     * [CPanel Email Setup](setup/cpanel-email/email.md)
-* [On-Boarding](on-boarding.md)
