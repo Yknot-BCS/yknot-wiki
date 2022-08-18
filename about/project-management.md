@@ -6,7 +6,18 @@ To ease the process of managing projects and development resources, software dev
 
 Products are to be delivered incrementally and iteratively to maximize feedback opportunities from external stakeholders.&#x20;
 
+### 📈 Development Process
 
+Venture with us into the unknown. We know the ropes when it comes to building blockchain-based solutions
+
+Our software development lifecycle usually looks like this:
+
+1. Gather requirements
+2. Design the solution - System Architecture & UX/UI Design
+3. Development (this is usally where you will start your collab)
+4. Testing for errors - share it with clients to test our
+5. Documentation & user guides
+6. Maintenance & upgrades
 
 ## :fist: Agile Project Management
 
