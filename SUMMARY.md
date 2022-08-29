@@ -18,6 +18,7 @@
     * [Husky](resources/husky/husky.md)
   * [sentry](resources/sentry/README.md)
     * [sentry\_readme](resources/sentry/sentry\_readme.md)
+* [Resource List](resource-list.md)
 * [Setup](setup/README.md)
   * [cpanel-email](setup/cpanel-email/README.md)
     * [CPanel Email Setup](setup/cpanel-email/email.md)
