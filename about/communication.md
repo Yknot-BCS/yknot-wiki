@@ -4,10 +4,6 @@ description: What types of conversations take place on which platform
 
 # Communication
 
-**Summary:**
-
-****
-
 **GitHub:** Code review & feedback
 
 **Jira:** Project management, tasks and sprints
