@@ -6,9 +6,11 @@ The basic company structure is composed out of both full-time, and part-time emp
 
 ![](../.gitbook/assets/image.png)
 
-Within this team, we have a core team of 4 individuals dealing with and taking responsibility for admiistrative business functions. If you encounter issues or challenges in any of the following areas, please contact the following team member:
+**Core Team**
 
-1. Anika - Marketing, Designs, Client Relationships, Team Connection, Onboarding, KPI's, Training, Skills & Development
+Within this team, we have a core team taking responsibility for business functions. Here's a quick list of who to contact for what:
+
+1. Anika - UX/UI & graphic design, marketing, Designs, Client Relationships, Team Connection, new crew, skills development, salaries & invoices
 2. Jacques - Technology Decisions, Development Planning, Development Processes
 3. Dewald - Information Management, Critical Systems, Reusability of Code, Security & Data Protection, System Maintenance & Support
 4. Gideon - Resource Planning, Proposals, Project Management, Finances&#x20;
