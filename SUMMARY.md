@@ -5,6 +5,7 @@
 * [Yknot Blockchain Solutions](about.md)
   * [Intro](about/intro.md)
   * [Crew & Contractors](about/crew-and-contractors.md)
+  * [Communication](about/communication.md)
   * [Project Management](about/project-management.md)
   * [Invoicing & Time Tracking](about/invoicing-and-time-tracking.md)
 * [Telos](telos.md)
