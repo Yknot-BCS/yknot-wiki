@@ -12,7 +12,7 @@
 * [Project Management](agile/README.md)
   * [Agile](agile/agile.md)
 * [Resources](resources/README.md)
-  * [Day 1](resources/day-1.md)
+  * [🌟 New to the crew](resources/new-to-the-crew.md)
   * [VS Code](resources/vscode.md)
   * [husky](resources/husky/README.md)
     * [Husky](resources/husky/husky.md)
