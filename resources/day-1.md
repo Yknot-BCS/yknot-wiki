@@ -2,7 +2,7 @@
 description: Here is everything you will need in your first month
 ---
 
-# 🌟 New to the crew
+# ⚓ New to the crew
 
 DAY 1
 

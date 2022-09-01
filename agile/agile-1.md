@@ -1,4 +1,4 @@
-# 😼 GitHub
+# GitHub
 
 {% embed url="https://youtu.be/KUxg-7U9EKM" %}
 
@@ -30,7 +30,7 @@ Start your branch name with the issue code and then the issue title, divided by 
 
 Jira simplifies the process by providing you with a line that you can paste in your terminal to do it for you. See the an example in the image below.
 
-![Github integration example](../agile/jira\_github\_integration.png)
+![Github integration example](jira\_github\_integration.png)
 
 ***
 
