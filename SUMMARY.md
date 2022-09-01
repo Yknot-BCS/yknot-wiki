@@ -12,7 +12,7 @@
 * [Project Management](agile/README.md)
   * [Agile](agile/agile.md)
 * [Resources](resources/README.md)
-  * [🌟 New to the crew](resources/day-1.md)
+  * [⚓ New to the crew](resources/day-1.md)
   * [😼 GitHub](resources/agile.md)
   * [🎨 CSS & Styling](resources/css-and-styling.md)
   * [🔄 Quasar](resources/quasar.md)
