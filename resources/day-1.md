@@ -1,8 +1,10 @@
 ---
-description: Here is everything you will need on your first day
+description: Here is everything you will need in your first month
 ---
 
-# Day 1
+# 🌟 New to the crew
+
+DAY 1
 
 Start by installing the following:
 
@@ -23,6 +25,14 @@ Start by installing the following:
 ****:man\_technologist: **Jacques** will send you an invite to GitHub.&#x20;
 
 ****:helicopter: **Scott** will assist you if you get stuck with any of these & also help you to get the current code of your assigned project onto your local machine.
+
+
+
+**Learning**
+
+Refer to the [more-resources.md](more-resources.md "mention")
+
+
 
 
 
