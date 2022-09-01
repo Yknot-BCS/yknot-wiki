@@ -78,10 +78,10 @@ If there are particular resources you find helpful, please share them on the #re
 
 **Other resources**  &#x20;
 
-●      [https://www.tutorialspoint.com/javascript/index.htm](https://www.tutorialspoint.com/javascript/index.htm) &#x20;
+{% embed url="https://www.tutorialspoint.com/javascript/index.htm" %}
 
-●      [https://code.visualstudio.com/docs/editor/integrated-terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) &#x20;
+{% embed url="https://code.visualstudio.com/docs/terminal/basics" %}
 
-●      [https://github.com/Reengen-FullStack-Development-Bootcamp/](https://github.com/Reengen-FullStack-Development-Bootcamp/)
+{% embed url="https://github.com/Reengen-FullStack-Development-Bootcamp/" %}
 
-●      [https://www.ibm.com/za-en/topics/what-is-blockchain](https://www.ibm.com/za-en/topics/what-is-blockchain)
+{% embed url="https://www.ibm.com/za-en/topics/what-is-blockchain" %}

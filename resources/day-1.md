@@ -2,7 +2,7 @@
 description: Here is everything you will need in your first month
 ---
 
-# New to the crew
+# 🌟 New to the crew
 
 DAY 1
 
@@ -30,7 +30,7 @@ Start by installing the following:
 
 **Learning**
 
-Refer to the [resource-list.md](resource-list.md "mention")
+Refer to the [resource-list.md](../resource-list.md "mention")
 
 
 
