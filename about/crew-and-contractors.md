@@ -2,7 +2,7 @@
 
 ### Structure
 
-The basic company structure is composed out of both full-time, and part-time employees. We know blockchian development is a super interesting field to learn and we create space for a selected few to join us on our journey to become and to build the best. The full-time crew consists of the following legends:
+The basic company structure is composed out of both full-time, and part-time employees. We know blockchain development is a super interesting field to learn and we create space for a selected few to join us on our journey to become and to build the best. The full-time crew consists of the following legends:
 
 ![](../.gitbook/assets/image.png)
 
@@ -10,8 +10,8 @@ The basic company structure is composed out of both full-time, and part-time emp
 
 Within this team, we have a core team taking responsibility for business functions. Here's a quick list of who to contact for what:
 
-1. Anika - UX/UI & graphic design, marketing, Designs, Client Relationships, Team Connection, new crew, skills development, salaries & invoices
-2. Jacques - Technology Decisions, Development Planning, Development Processes
+1. Anika - UX/UI & graphic design, Marketing, Client Relationships, Team Connection, new crew, skills development, salaries & invoices
+2. Jacques - Technology Decisions, Development Planning, Development Processes, Advising & connecting with new clients on technology
 3. Dewald - Information Management, Critical Systems, Reusability of Code, Security & Data Protection, System Maintenance & Support
 4. Gideon - Resource Planning, Proposals, Project Management, Finances&#x20;
 
