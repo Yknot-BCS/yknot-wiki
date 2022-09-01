@@ -10,61 +10,69 @@ If there are particular resources you find helpful, please share them on the #re
 
 &#x20;
 
-**CSS**&#x20;
+**Awesome tutorials**
 
-●      [https://www.freecodecamp.org](https://www.freecodecamp.org/)
+{% embed url="https://www.youtube.com/c/Fireship" %}
+:fire: Fireship YouTube channel&#x20;
+{% endembed %}
 
-●      [https://www.youtube.com/watch?v=ouncVBiye\_M\&ab\_channel=Fireship](https://www.youtube.com/watch?v=ouncVBiye\_M\&ab\_channel=Fireship)
+****
 
-●      [https://www.youtube.com/watch?v=Qhaz36TZG5Y](https://www.youtube.com/watch?v=Qhaz36TZG5Y)
+**CSS** &#x20;
 
-●      [https://www.w3schools.com/cssref/css\_units.asp](https://www.w3schools.com/cssref/css\_units.asp)
+{% embed url="https://www.freecodecamp.org" %}
 
-●      [https://www.youtube.com/watch?v=JSURzPQnkl0](https://www.youtube.com/watch?v=JSURzPQnkl0)
+{% embed url="https://www.youtube.com/watch?v=ouncVBiye_M&ab_channel=Fireship" %}
 
+{% embed url="https://www.youtube.com/watch?v=JSURzPQnkl0" %}
 
+{% embed url="https://www.w3schools.com/cssref/css_units.asp" %}
+
+****
 
 **Quasar**
 
-●      [https://quasar.dev/video-tutorials](https://quasar.dev/video-tutorials)
+{% embed url="https://quasar.dev/video-tutorials" %}
 
-●      [https://quasar.dev/](https://quasar.dev/)
+{% embed url="https://quasar.dev/" %}
 
-●      [https://quasar.dev/start](https://quasar.dev/start)
+{% embed url="https://quasar.dev/start" %}
 
-
+****
 
 **Vue**
 
-●      [https://vuejs.org/guide/quick-start.html](https://vuejs.org/guide/quick-start.html) &#x20;
+{% embed url="https://vuejs.org/guide/quick-start.html" %}
 
-●      [https://docs.microsoft.com/en-us/windows/dev-environment/javascript/vue-on-windows#:\~:text=Vue%20can%20be%20installed%20directly,tutorial%20that%20utilize%20s%20Bash%20commands](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/vue-on-windows)
+{% embed url="https://docs.microsoft.com/en-us/windows/dev-environment/javascript/vue-on-windows" %}
 
-●      [https://www.codecademy.com/learn/learn-vue-js](https://www.codecademy.com/learn/learn-vue-js)     &#x20;
+{% embed url="https://www.codecademy.com/learn/learn-vue-js" %}
 
-
+****
 
 **Github**
 
-●     [https://www.youtube.com/watch?v=KUxg-7U9EKM\&ab\_channel=CameronMcKenzie](https://www.youtube.com/watch?v=KUxg-7U9EKM\&ab\_channel=CameronMcKenzie)                &#x20;
+{% embed url="https://www.youtube.com/watch?v=KUxg-7U9EKM" %}
 
-●     [https://www.atlassian.com/git/tutorials/source-code-management](https://www.atlassian.com/git/tutorials/source-code-management) &#x20;
+{% embed url="https://www.atlassian.com/git/tutorials/source-code-management" %}
 
 &#x20;           &#x20;
 
 **Telos**
 
-●      [https://www.telos.net/](https://www.telos.net/)
+{% embed url="https://www.telos.net/" %}
 
-●      [https://help.telos.net/en\_US/decentralized-exchanges-dex](https://help.telos.net/en\_US/decentralized-exchanges-dex) &#x20;
+{% embed url="https://help.telos.net/en_US/decentralized-exchanges-dex" %}
 
-●      [https://help.telos.net/en\_US/getting-started/how-to-buy-tlos](https://help.telos.net/en\_US/getting-started/how-to-buy-tlos) &#x20;
+{% embed url="https://help.telos.net/en_US/getting-started/how-to-buy-tlos" %}
 
-●      [https://help.telos.net/en\_US/evm](https://help.telos.net/en\_US/evm)
+{% embed url="https://help.telos.net/en_US/evm" %}
 
-●      [https://app.telos.net/testnet/developers](https://app.telos.net/testnet/developers) &#x20;
+{% embed url="https://app.telos.net/testnet/developers" %}
+[https://app.telos.net/testnet/developers](https://app.telos.net/testnet/developers)
+{% endembed %}
 
-●      [https://github.com/telosnetwork/ui-template](https://github.com/telosnetwork/ui-template) &#x20;
+{% embed url="https://github.com/telosnetwork/ui-template" %}
 
 &#x20;
 
