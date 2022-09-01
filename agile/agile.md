@@ -1,6 +1,6 @@
 # Agile
 
-## :fist: Agile Project Management
+## :chart\_with\_upwards\_trend: Agile Project Management
 
 We follow these [principles](https://agilemanifesto.org/principles.html):
 
