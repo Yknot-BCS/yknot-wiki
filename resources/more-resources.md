@@ -16,8 +16,6 @@ Share more resources on the #resources channel on Discord
 :fire: Fireship YouTube channel&#x20;
 {% endembed %}
 
-{% embed url="https://www.youtube.com/watch?v=KUxg-7U9EKM" %}
-
 {% embed url="https://www.atlassian.com/git/tutorials/source-code-management" %}
 
 {% embed url="https://www.tutorialspoint.com/javascript/index.htm" %}
