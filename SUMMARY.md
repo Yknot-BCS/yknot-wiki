@@ -15,6 +15,7 @@
   * [🌟 New to the crew](resources/day-1.md)
   * [Resource List](resource-list.md)
   * [🎨 CSS & Styling](resources/css-and-styling.md)
+  * [🟣 Telos resources](resources/telos-resources.md)
   * [VS Code](resources/vscode.md)
   * [husky](resources/husky/README.md)
     * [Husky](resources/husky/husky.md)

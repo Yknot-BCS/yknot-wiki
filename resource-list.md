@@ -10,78 +10,70 @@ If there are particular resources you find helpful, please share them on the #re
 
 &#x20;
 
-**Awesome tutorials**
+**CSS**&#x20;
 
-{% embed url="https://www.youtube.com/c/Fireship" %}
-:fire: Fireship YouTube channel&#x20;
-{% endembed %}
+●      [https://www.freecodecamp.org](https://www.freecodecamp.org/)
 
-****
+●      [https://www.youtube.com/watch?v=ouncVBiye\_M\&ab\_channel=Fireship](https://www.youtube.com/watch?v=ouncVBiye\_M\&ab\_channel=Fireship)
 
-**CSS** &#x20;
+●      [https://www.youtube.com/watch?v=Qhaz36TZG5Y](https://www.youtube.com/watch?v=Qhaz36TZG5Y)
 
-{% embed url="https://www.freecodecamp.org" %}
+●      [https://www.w3schools.com/cssref/css\_units.asp](https://www.w3schools.com/cssref/css\_units.asp)
 
-{% embed url="https://www.youtube.com/watch?v=ouncVBiye_M&ab_channel=Fireship" %}
+●      [https://www.youtube.com/watch?v=JSURzPQnkl0](https://www.youtube.com/watch?v=JSURzPQnkl0)
 
-{% embed url="https://www.youtube.com/watch?v=JSURzPQnkl0" %}
 
-{% embed url="https://www.w3schools.com/cssref/css_units.asp" %}
-
-****
 
 **Quasar**
 
-{% embed url="https://quasar.dev/video-tutorials" %}
+●      [https://quasar.dev/video-tutorials](https://quasar.dev/video-tutorials)
 
-{% embed url="https://quasar.dev/" %}
+●      [https://quasar.dev/](https://quasar.dev/)
 
-{% embed url="https://quasar.dev/start" %}
+●      [https://quasar.dev/start](https://quasar.dev/start)
 
-****
+
 
 **Vue**
 
-{% embed url="https://vuejs.org/guide/quick-start.html" %}
+●      [https://vuejs.org/guide/quick-start.html](https://vuejs.org/guide/quick-start.html) &#x20;
 
-{% embed url="https://docs.microsoft.com/en-us/windows/dev-environment/javascript/vue-on-windows" %}
+●      [https://docs.microsoft.com/en-us/windows/dev-environment/javascript/vue-on-windows#:\~:text=Vue%20can%20be%20installed%20directly,tutorial%20that%20utilize%20s%20Bash%20commands](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/vue-on-windows)
 
-{% embed url="https://www.codecademy.com/learn/learn-vue-js" %}
+●      [https://www.codecademy.com/learn/learn-vue-js](https://www.codecademy.com/learn/learn-vue-js)     &#x20;
 
-****
+
 
 **Github**
 
-{% embed url="https://www.youtube.com/watch?v=KUxg-7U9EKM" %}
+●     [https://www.youtube.com/watch?v=KUxg-7U9EKM\&ab\_channel=CameronMcKenzie](https://www.youtube.com/watch?v=KUxg-7U9EKM\&ab\_channel=CameronMcKenzie)                &#x20;
 
-{% embed url="https://www.atlassian.com/git/tutorials/source-code-management" %}
+●     [https://www.atlassian.com/git/tutorials/source-code-management](https://www.atlassian.com/git/tutorials/source-code-management) &#x20;
 
 &#x20;           &#x20;
 
 **Telos**
 
-{% embed url="https://www.telos.net/" %}
+●      [https://www.telos.net/](https://www.telos.net/)
 
-{% embed url="https://help.telos.net/en_US/decentralized-exchanges-dex" %}
+●      [https://help.telos.net/en\_US/decentralized-exchanges-dex](https://help.telos.net/en\_US/decentralized-exchanges-dex) &#x20;
 
-{% embed url="https://help.telos.net/en_US/getting-started/how-to-buy-tlos" %}
+●      [https://help.telos.net/en\_US/getting-started/how-to-buy-tlos](https://help.telos.net/en\_US/getting-started/how-to-buy-tlos) &#x20;
 
-{% embed url="https://help.telos.net/en_US/evm" %}
+●      [https://help.telos.net/en\_US/evm](https://help.telos.net/en\_US/evm)
 
-{% embed url="https://app.telos.net/testnet/developers" %}
-[https://app.telos.net/testnet/developers](https://app.telos.net/testnet/developers)
-{% endembed %}
+●      [https://app.telos.net/testnet/developers](https://app.telos.net/testnet/developers) &#x20;
 
-{% embed url="https://github.com/telosnetwork/ui-template" %}
+●      [https://github.com/telosnetwork/ui-template](https://github.com/telosnetwork/ui-template) &#x20;
 
 &#x20;
 
 **Other resources**  &#x20;
 
-{% embed url="https://www.tutorialspoint.com/javascript/index.htm" %}
+●      [https://www.tutorialspoint.com/javascript/index.htm](https://www.tutorialspoint.com/javascript/index.htm) &#x20;
 
-{% embed url="https://code.visualstudio.com/docs/terminal/basics" %}
+●      [https://code.visualstudio.com/docs/editor/integrated-terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) &#x20;
 
-{% embed url="https://github.com/Reengen-FullStack-Development-Bootcamp/" %}
+●      [https://github.com/Reengen-FullStack-Development-Bootcamp/](https://github.com/Reengen-FullStack-Development-Bootcamp/)
 
-{% embed url="https://www.ibm.com/za-en/topics/what-is-blockchain" %}
+●      [https://www.ibm.com/za-en/topics/what-is-blockchain](https://www.ibm.com/za-en/topics/what-is-blockchain)
