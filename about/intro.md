@@ -24,7 +24,7 @@ www.fuelswitch.io
 ![legalCoinlogo_new](https://user-images.githubusercontent.com/108277716/206450149-ae13e48b-2630-4749-89bc-bb1666e1f3a3.png)
 
 
-www.legalcoin.com
+app.legalcoin.com
 
 
 ![T-Swaps_Logo-01](https://user-images.githubusercontent.com/108277716/206449255-1fe0adc0-1096-4752-95f1-9a3b73eb9a9a.png)
