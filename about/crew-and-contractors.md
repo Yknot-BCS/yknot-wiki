@@ -6,7 +6,8 @@ The basic company structure is composed out of both full-time, and part-time emp
 
 **Our Managing Director (MD) / helmsman**
 
-https://y-knot.io/wp-content/uploads/2022/08/batch_IMG_6166-1.jpg![image](https://user-images.githubusercontent.com/108277716/206445281-a73ab5a2-6e89-4011-b1ae-db2ef64be92d.png)
+<img width="1018" alt="Screenshot 2022-12-08 at 14 23 29" src="https://user-images.githubusercontent.com/108277716/206446416-5549e94d-447e-4ddd-abfe-be8c868582f8.png">
+
 Alec Avierinos
 Alec is an experienced entrepreneur in the IT solutions industry. He has co-founded multiple successful companies and has a track record of continuously renew his offering according to technological advances. Over 20 years experience, including  12 years as a tech entrepreneur of which 2 have been spent exclusively in blockchain technology. Currently focused on building DeFi business solutions in the blockchain ecosystem.
 
@@ -14,7 +15,8 @@ Alec is an experienced entrepreneur in the IT solutions industry. He has co-foun
 
 **Core Team / steering committee**
 
-![Uploading Screenshot 2022-12-08 at 14.22.28.png…]()
+<img width="1023" alt="Screenshot 2022-12-08 at 14 22 28" src="https://user-images.githubusercontent.com/108277716/206446261-e3800319-fc09-44e2-85bd-c527484a5712.png">
+
 Within our Crew, we have a core team taking responsibility for business functions. Here's a quick list of who to contact for what:
 
 1. Anika - UX/UI & graphic design, Team Connection, New Crew, salaries & invoices
