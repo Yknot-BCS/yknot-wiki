@@ -5,8 +5,7 @@
 
 <img width="359" alt="Screenshot 2022-12-08 at 14 28 22" src="https://user-images.githubusercontent.com/108277716/206446620-611b432e-fa78-4828-8cb2-7bbf33de396b.png">
 
-Alec Avierinos
-Alec is an experienced entrepreneur in the IT solutions industry. He has co-founded multiple successful companies and has a track record of continuously renew his offering according to technological advances. Over 20 years experience, including  12 years as a tech entrepreneur of which 2 have been spent exclusively in blockchain technology. Currently focused on building DeFi business solutions in the blockchain ecosystem.
+**Alec Avierinos** is an experienced entrepreneur in the IT solutions industry. He has co-founded multiple successful companies and has a track record of continuously renew his offering according to technological advances. Over 20 years experience, including  12 years as a tech entrepreneur of which 2 have been spent exclusively in blockchain technology. Currently focused on building DeFi business solutions in the blockchain ecosystem.
 
 
 
@@ -16,10 +15,10 @@ Alec is an experienced entrepreneur in the IT solutions industry. He has co-foun
 
 Within our Crew, we have a core team taking responsibility for business functions. Here's a quick list of who to contact for what:
 
-1. Anika - UX/UI & graphic design, Team Connection, New Crew, salaries & invoices
-2. Jacques - Technology Decisions, Development Planning, Development Processes
-3. Dewald - Information Management, Critical Systems, Data Protection, System Maintenance
-4. Gideon - Resource Planning, Recruitment, Proposals, Project Management, Finances
+**Anika** - UX/UI & graphic design, Team Connection, New Crew, salaries & invoices
+**Jacques** - Technology Decisions, Development Planning, Development Processes
+**Dewald** - Information Management, Critical Systems, Data Protection, System Maintenance
+**Gideon** - Resource Planning, Recruitment, Proposals, Project Management, Finances
 
 ### Our all-star Crew
 <img width="1018" alt="Screenshot 2022-12-08 at 14 23 29" src="https://user-images.githubusercontent.com/108277716/206445569-38f27994-a4ea-4c45-a90a-ef44b6d03f2f.png">
