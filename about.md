@@ -14,14 +14,29 @@ We work closely with our clients. they are like guests on our private yacht. We 
 
 ## :sailboat: Who's the crew
 
-* Stefan Beukes | Operational Director | Innovation
+**Directors**
+
+* Stefan Beukes | New Ventures | Innovation
 * Alec Avierinos | Managing Director | Client Relations
 * Rory Mapstone | Technical Director | Blockchain Expert
-* Anika van den Berg | Designer | Project Manager
+* Dave Munro | Financial & Risk Director
+
+**Core Team**
+
+* Anika van den Berg | Designer | Team culture
 * Jacques Beukes | Senior Blockchain Engineer | Project Owner
 * Dewald Krynauw | Senior Blockchain Engineer | Project Owner
 * Gideon Maasz | Program Manager | Operations
-* Wikus Kriek | Blockchain Engineer | Mentor
+
+**Full-time Crew**
+* Wikus Kriek | Blockchain Engineer
+* Markus Marais  |  Full-stack developer
+* Johan Bloem  |  Blockchain Engineer
+* Mudivhi Tshishivhiri  |  Full-stack developer
+* Wihan de Beer  |  Blockchain Engineer
+* Corne du Toit  |  Blockchain Engineer
+
+Check out more details on https://github.com/Yknot-BCS/yknot-wiki/blob/main/about/crew-and-contractors.md
 
 ### :anchor: All hands on Deck
 
@@ -49,6 +64,6 @@ Our software development lifecycle usually looks like this:
 ## :money\_with\_wings: Time Tracking & Invoices
 
 * Everyone logs their time on [Clockify](https://clockify.me) - Assign your work to the correct project
-* All contractors & holiday crew email their clockify reports & invoices to anika@y-knot.io by the 25th of each month
-* Invoices should span from the 25th of the previous month to the 24th of the current month (eg. 25 May to 24 June)
+* All contractors & holiday crew email their clockify reports & invoices to anika@y-knot.io by the 22st of each month
+* Invoices should span from the 22st of the previous month to the 21th of the current month (eg. 22 May to 21 June)
 * Late invoices will be paid at the end of the following month
