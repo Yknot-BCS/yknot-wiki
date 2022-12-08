@@ -1,10 +1,7 @@
-# Crew & Contractors
+# The Yknot Crew
 
-### Structure
 
-The basic company structure is composed out of both full-time, and part-time employees. We know blockchain development is a super interesting field to learn and we create space for a selected few to join us on our journey to become and to build the best. The full-time crew consists of the following legends:
-
-**Our Managing Director (MD) / helmsman**
+### Our Managing Director (MD) / helmsman
 
 <img width="359" alt="Screenshot 2022-12-08 at 14 28 22" src="https://user-images.githubusercontent.com/108277716/206446620-611b432e-fa78-4828-8cb2-7bbf33de396b.png">
 
