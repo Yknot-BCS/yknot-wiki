@@ -10,7 +10,7 @@ Alec is an experienced entrepreneur in the IT solutions industry. He has co-foun
 
 
 
-**Core Team / steering committee**
+### Core Team / steering committee**
 
 <img width="1023" alt="Screenshot 2022-12-08 at 14 22 28" src="https://user-images.githubusercontent.com/108277716/206446261-e3800319-fc09-44e2-85bd-c527484a5712.png">
 
@@ -21,8 +21,10 @@ Within our Crew, we have a core team taking responsibility for business function
 3. Dewald - Information Management, Critical Systems, Data Protection, System Maintenance
 4. Gideon - Resource Planning, Recruitment, Proposals, Project Management, Finances
 
-**Our all-star Crew**
+### Our all-star Crew**
 <img width="1018" alt="Screenshot 2022-12-08 at 14 23 29" src="https://user-images.githubusercontent.com/108277716/206445569-38f27994-a4ea-4c45-a90a-ef44b6d03f2f.png">
+
+-----
 
 ### Connection
 
