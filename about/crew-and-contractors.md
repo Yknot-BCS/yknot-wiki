@@ -16,8 +16,11 @@
 Within our Crew, we have a core team taking responsibility for business functions. Here's a quick list of who to contact for what:
 
 **Anika** - UX/UI & graphic design, Team Connection, New Crew, salaries & invoices
+
 **Jacques** - Technology Decisions, Development Planning, Development Processes
+
 **Dewald** - Information Management, Critical Systems, Data Protection, System Maintenance
+
 **Gideon** - Resource Planning, Recruitment, Proposals, Project Management, Finances
 
 ### Our all-star Crew
