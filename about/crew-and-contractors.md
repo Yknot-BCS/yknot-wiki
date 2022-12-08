@@ -6,7 +6,7 @@ The basic company structure is composed out of both full-time, and part-time emp
 
 **Our Managing Director (MD) / helmsman**
 
-<img width="1018" alt="Screenshot 2022-12-08 at 14 23 29" src="https://user-images.githubusercontent.com/108277716/206446416-5549e94d-447e-4ddd-abfe-be8c868582f8.png">
+<img width="359" alt="Screenshot 2022-12-08 at 14 28 22" src="https://user-images.githubusercontent.com/108277716/206446620-611b432e-fa78-4828-8cb2-7bbf33de396b.png">
 
 Alec Avierinos
 Alec is an experienced entrepreneur in the IT solutions industry. He has co-founded multiple successful companies and has a track record of continuously renew his offering according to technological advances. Over 20 years experience, including  12 years as a tech entrepreneur of which 2 have been spent exclusively in blockchain technology. Currently focused on building DeFi business solutions in the blockchain ecosystem.
