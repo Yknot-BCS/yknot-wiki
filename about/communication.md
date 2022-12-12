@@ -1,5 +1,5 @@
 ---
-description: Yknot Communication channels
+Yknot Communication channels
 ---
 
 # Communication
@@ -18,7 +18,7 @@ Feel free to DM any of our crew on any of the platforms. We are here to connect 
 
 &#x20;
 
-### :desktop: **** GitHub
+### :desktop: GitHub
 
 Make an account for yourself on Github. This is where you will publish the dev files you worked on.
 
