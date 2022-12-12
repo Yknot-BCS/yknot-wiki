@@ -12,13 +12,13 @@
 
 On the first day you will need to install the following:
 
-  1.	A code editor. We recommend VS code:
+### A code editor. We recommend VS code:
   
    a. https://code.visualstudio.com/
   
    b.	Settings and Plugins: https://github.com/Yknot-BCS/yknot-wiki/blob/main/resources/vscode.md 
   
-  2.	The current LTS version of NodeJs:
+### The current LTS version of NodeJs:
    
    a. https://nodejs.org/en/
   
@@ -28,12 +28,12 @@ On the first day you will need to install the following:
     
      ii.	Linux / Max: https://github.com/nvm-sh/nvm
     
-  3.	Yarn package manager (we are still on version 1):
+### Yarn package manager (we are on version 1):
   
    a.	https://classic.yarnpkg.com/lang/en/
   
-  4.	Quasar global installation (optional)
+### Quasar global installation (optional)
   
    a.	https://quasar.dev/
   
-  5.	A Metamask & an Anchor wallet (optional)
+### A Metamask & an Anchor wallet (optional)
