@@ -1,5 +1,5 @@
 ---
-description: What types of conversations take place on which platform
+description: Yknot Communication channels
 ---
 
 # Communication
@@ -8,7 +8,7 @@ description: What types of conversations take place on which platform
 
 **Jira:** Project management, tasks and sprints
 
-**Discord:** Informal Q\&A and chat about tasks
+**Discord:** Project-related conversation, informal Q&A and meme sharing
 
 **Telegram:** Meeting arrangements & official communications
 
@@ -22,7 +22,7 @@ Feel free to DM any of our crew on any of the platforms. We are here to connect 
 
 Make an account for yourself on Github. This is where you will publish the dev files you worked on.
 
-**Scott Cartwright** will assist you in setting up your GitHub account and understanding how we use branches and pull requests.
+**Johan Bloem** will assist you in understanding how we use branches and pull requests.
 
 **Markus Marx** will assist you in configuring the remote after your account has been set up.&#x20;
 
@@ -35,6 +35,8 @@ You can access information about our public Yknot projects on GitHub.
 You will receive an email with a link to join our Jira account.&#x20;
 
 This is where we manage all our projects, assign tasks, plan sprints and discuss tasks.&#x20;
+
+**Gideon Maasz** is your go-to-guy for all things Jira.
 
 Jira also has a Clockify integration that enables you to track your time on a particular task on Jira.&#x20;
 
