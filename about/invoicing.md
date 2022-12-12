@@ -14,7 +14,7 @@ Following this approach automatically syncs your jira tasks with specific clocki
 
 ### Invoices
 
-* All contractors & holiday crew email their clockify reports & invoices to [gideon@y-knot.io](mailto:gideon@y-knot.io) by the 22nd of each month
+* All contractors & holiday crew email their clockify reports & invoices to [anika@y-knot.io](mailto:gideon@y-knot.io) by the 22nd of each month
 * Invoices should span from the 22nd of the previous month to the 21st of the current month (eg. 22 May to 21 June)
 * Late invoices will be paid at the end of the following month
 * If you need something to make nice invoices with, try [Invoicely](https://www.google.com/search?client=safari\&rls=en\&q=invoicely\&ie=UTF-8\&oe=UTF-8)
