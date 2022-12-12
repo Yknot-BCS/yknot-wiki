@@ -36,7 +36,8 @@ www.tstarter.io
 
 https://www.blacqpaye.co.za/auth/home
 
-** TCD Collabs***
+
+**TCD Collabs**
 
 <img width="724" alt="Screenshot 2022-12-12 at 11 33 00" src="https://user-images.githubusercontent.com/108277716/207034661-56ad514f-614c-44d4-8f47-866bda3b12d3.png">
 
@@ -48,4 +49,4 @@ https://www.telos.net/evm
 
 <img width="579" alt="Screenshot 2022-12-12 at 11 31 57" src="https://user-images.githubusercontent.com/108277716/207034655-d3e9d385-ef9d-44bc-aaff-8dd00fbe22c9.png">
 
-wallet.telos.net
+https://wallet.telos.net
