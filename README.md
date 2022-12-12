@@ -2,12 +2,6 @@
 
 ⚓ Ahoy! Welcome to the Yknot chest of knowledge. this repo is a guide for people starting at Yknot. Our best practices & workflow are documented here. 
 
-“A journey of a thousand miles must begin with a single step.” ― Lao Tzu
-
-Wherever you are on your journey to harness the potential of blockchain technology, we’re here to guide you.
-
-We’re continuously building our library of resources to give you the information you need to make good choices along the way.
-
 ## About Us
 
 * Yknot Blockchain Solutions
@@ -22,6 +16,9 @@ We’re continuously building our library of resources to give you the informati
   * [Time Tracking & Invoicing](invoicing.md)
 
 ## Getting started
+
+“A journey of a thousand miles must begin with a single step.” ― Lao Tzu
+
 The first thing you need to do is get access to GitHub and Jira. We use GitHub for version control and to store our
 code in repositories. Jira is a project management tool that integrates with GitHub to keep track of outstading and
 completed work. 
@@ -29,6 +26,10 @@ completed work.
 * [CPanel Email Setup](setup/cpanel-email/email.md)
 
 ## Getting it done
+
+Wherever you are on your journey to harness the potential of blockchain technology, we’re here to guide you.
+
+We’re continuously building our library of resources to give you the information you need to make good choices along the way.
 
 Here the crew likes to share things that they found useful. We heartily encourage contribution. Just make ye pull request._
 
