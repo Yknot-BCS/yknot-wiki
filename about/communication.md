@@ -1,8 +1,7 @@
+# Communication
 ---
 Yknot Communication channels
 ---
-
-# Communication
 
 **GitHub:** Code review & feedback
 
