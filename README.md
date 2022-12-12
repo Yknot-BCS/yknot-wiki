@@ -18,6 +18,7 @@ We’re continuously building our library of resources to give you the informati
   * [Telos](telos/)
 * Project Management
   * [Agile](agile/agile.md)
+  * [Time Tracking & Invoicing](invoicing.md)
 
 ## Getting started
 The first thing you need to do is get access to GitHub and Jira. We use GitHub for version control and to store our
