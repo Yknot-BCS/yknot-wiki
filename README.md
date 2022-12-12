@@ -49,3 +49,5 @@ Here the crew likes to share things that they found useful. We heartily encourag
 :money_with_wings: Invoices & salaries: Anika
 
 :closed_lock_with_key: Security: Dewald
+
+:purple_circle: Telos products & TCD dev
