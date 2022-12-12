@@ -22,7 +22,7 @@ www.fuelswitch.io
 
 <img width="1686" alt="LegalCoin slide" src="https://user-images.githubusercontent.com/108277716/207035309-612ae8c1-93ab-4423-ba39-8c237d42fb3f.png">
 
-app.legalcoin.com
+https://app.legalcoin.com
 
 <img width="1058" alt="Screenshot 2022-12-12 at 11 25 32" src="https://user-images.githubusercontent.com/108277716/207034555-de9ddf08-1524-414b-8d29-b6c8f79f833e.png">
 
@@ -36,8 +36,9 @@ www.tstarter.io
 
 https://www.blacqpaye.co.za/auth/home
 
-
+---
 **TCD Collabs**
+---
 
 <img width="724" alt="Screenshot 2022-12-12 at 11 33 00" src="https://user-images.githubusercontent.com/108277716/207034661-56ad514f-614c-44d4-8f47-866bda3b12d3.png">
 
