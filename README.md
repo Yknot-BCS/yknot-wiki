@@ -25,8 +25,8 @@ We’re continuously building our library of resources to give you the informati
 The first thing you need to do is get access to GitHub and Jira. We use GitHub for version control and to store our
 code in repositories. Jira is a project management tool that integrates with GitHub to keep track of outstading and
 completed work. 
-* E-mail Setup
-  * [CPanel Email](setup/cpanel-email/email.md)
+* [First day installs](installs.md)
+* [CPanel Email Setup](setup/cpanel-email/email.md)
 
 ## Getting it done
 
