@@ -7,9 +7,8 @@
 * Yknot Blockchain Solutions
   * [About Us](about.md)
   * [Our Crew](crew-and-contractors.md)
-  * [Our Adventures](projects.md)
-* Telos
-  * [Telos](telos/)
+  * [Our Project Adventures](projects.md)
+* [Telos](telos/)
 * Project Management
   * [What is Agile?](agile/agile.md)
   * [GitHub integration & best practices](agile-1.md)
