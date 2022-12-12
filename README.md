@@ -17,7 +17,8 @@ We’re continuously building our library of resources to give you the informati
 * Telos
   * [Telos](telos/)
 * Project Management
-  * [Agile](agile/agile.md)
+  * [What is Agile?](agile/agile.md)
+  * [GitHub integration & best practices](agile-1.md)
   * [Time Tracking & Invoicing](invoicing.md)
 
 ## Getting started
