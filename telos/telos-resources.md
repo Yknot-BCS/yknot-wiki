@@ -10,7 +10,7 @@ Here are a few handy links:
 
 [Telos UI Template in Vue/Quasar](https://github.com/telosnetwork/ui-template) Contribute to telosnetwork/ui-template development
 
-[Getting Started on Telos for Developers](https://docs.telos.net/for-developers/getting-started-for-developers) Developing Telos Native dApps or deploying Ethereum EVM dApps on tEVM.
+[Getting Started on Telos for Developers](https://docs.telos.net/) Developing Telos Native dApps or deploying Ethereum EVM dApps on tEVM.
 
 ### :mag: Block Explorer
 

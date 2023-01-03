@@ -1,28 +1,28 @@
 # Yknot Wiki
 
-⚓ Ahoy! Welcome to the Yknot chest of knowledge. this repo is a guide for people starting at Yknot. Our best practices & workflow are documented here. 
+⚓ Ahoy! Welcome to the Yknot chest of knowledge. This repo is a guide for people starting at Yknot. Our best practices & workflow are documented here.
 
 ## About Us
 
-* Yknot Blockchain Solutions
+* [Yknot Blockchain Solutions](about.md)
   * [About Us](about.md)
-  * [Our Crew](crew-and-contractors.md)
-  * [Our Project Adventures](projects.md)
+  * [Our Crew](about/crew-and-contractors.md)
 * [Telos](telos/)
-* Project Management
-  * [What is Agile?](agile/agile.md)
-  * [GitHub integration & best practices](agile-1.md)
-  * [Time Tracking & Invoicing](invoicing.md)
+* [Project Management](about/project-management/)
+  * [What is Agile?](about/project-management/agile.md)
+  * [Version Control (Github)](about/project-management/agile-1.md)
+  * [Time Tracking & Invoicing](about/invoicing-and-time-tracking.md)
 
 ## Getting started
 
 “A journey of a thousand miles must begin with a single step.” ― Lao Tzu
 
-The first thing you need to do is get access to GitHub and Jira. We use GitHub for version control and to store our
-code in repositories. Jira is a project management tool that integrates with GitHub to keep track of outstading and
-completed work. 
-* [First day installs](installs.md)
-* [CPanel Email Setup](setup/cpanel-email/email.md)
+The first thing you need to do is get access to Discord, Telegram, GitHub and Jira. We use GitHub for version control and to store our code in repositories. Jira is a project management tool that integrates with GitHub to keep track of outstading and completed work. We chat formally on Telegram and informally on Discord.
+
+Make sure we've added you on those platforms and get right into it with:
+
+* [CPanel Email Setup](broken-reference)
+* [First day installs](resources/day-1/)
 
 ## Getting it done
 
@@ -30,23 +30,25 @@ Wherever you are on your journey to harness the potential of blockchain technolo
 
 We’re continuously building our library of resources to give you the information you need to make good choices along the way.
 
-Here the crew likes to share things that they found useful. We heartily encourage contribution. Just make ye pull request._
+Here the crew likes to share things that they found useful. We heartily encourage contribution. Just make ye pull request.
 
-* Developer resources
-  * [VS Code](resources/vscode.md)
-  * [Husky](resources/husky/husky.md)
+* [Developer resources](resources/)
+  * IDE setup & extensions
+  * Guides & tutorials
+  * Interesting things to stay ahead of the curve
 
 ## If you need any help or support reach out to any of the following people:
+
 :computer: GitHub: Markus
 
-:card_index_dividers: Jira: Gideon
+:dividers: Jira: Gideon
 
 :jigsaw: Effective code & components: Jacques
 
-:earth_africa: Fuel Switch: Johan
+:earth\_africa: Fuel Switch: Johan
 
-:money_with_wings: Invoices & salaries: Anika
+:money\_with\_wings: Invoices & salaries: Anika
 
-:closed_lock_with_key: Security: Dewald
+:closed\_lock\_with\_key: Security: Dewald
 
-:purple_circle: Telos products & TCD dev
+:purple\_circle: Telos products & TCD dev: Wikus

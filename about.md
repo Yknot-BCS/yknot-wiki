@@ -1,11 +1,5 @@
 # Yknot Blockchain Solutions
 
-“A journey of a thousand miles must begin with a single step.” ― Lao Tzu
-
-Wherever you are on your journey to harness the potential of blockchain technology, we’re here to guide you.
-
-We’re continuously building our library of resources to give you the information you need to make good choices along the way.
-
 ## What we do
 
 We are a cool crew of innovators who develop blockchain-based business solutions for real-world businesses. The solutions we build enable businesses to raise capital, manage investments, benefit from smart contracts and transparent record-keeping
@@ -29,14 +23,15 @@ We work closely with our clients. they are like guests on our private yacht. We 
 * Gideon Maasz | Program Manager | Operations
 
 **Full-time Crew**
-* Wikus Kriek | Blockchain Engineer
-* Markus Marais  |  Full-stack developer
-* Johan Bloem  |  Blockchain Engineer
-* Mudivhi Tshishivhiri  |  Full-stack developer
-* Wihan de Beer  |  Blockchain Engineer
-* Corne du Toit  |  Blockchain Engineer
 
-Check out more details on https://github.com/Yknot-BCS/yknot-wiki/blob/main/about/crew-and-contractors.md
+* Wikus Kriek | Blockchain Engineer
+* Markus Marais | Full-stack developer
+* Johan Bloem | Blockchain Engineer
+* Mudivhi Tshishivhiri | Full-stack developer
+* Wihan de Beer | Blockchain Engineer
+* Corne du Toit | Blockchain Engineer
+
+Check out more details on [Crew & Contractors](about/crew-and-contractors.md)
 
 ### :anchor: All hands on Deck
 
@@ -55,15 +50,10 @@ Our software development lifecycle usually looks like this:
 5. Documentation & user guides
 6. Maintenance & upgrades
 
-## :arrows\_counterclockwise: Project Management Methodology
+## :arrows\_counterclockwise: [Project Management Methodology](about/project-management/)
 
 * Our projects are managed on Jira.
 * Ongoing dev work mostly rely on self-lead teams and regular feedback loops.
-* On time-based projects we use SCRUM from the [Agile Project Management Methodology](docs/agile.md).
+* On time-based projects we use SCRUM from the [Agile Project Management Methodology](about/project-management/agile.md).
 
-## :money\_with\_wings: Time Tracking & Invoices
-
-* Everyone logs their time on [Clockify](https://clockify.me) - Assign your work to the correct project
-* All contractors & holiday crew email their clockify reports & invoices to anika@y-knot.io by the 22st of each month
-* Invoices should span from the 22st of the previous month to the 21th of the current month (eg. 22 May to 21 June)
-* Late invoices will be paid at the end of the following month
+## :money\_with\_wings: [Time Tracking & Invoices](about/invoicing-and-time-tracking.md)

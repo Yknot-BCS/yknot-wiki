@@ -48,3 +48,8 @@ You can enable auto formatting on save by adding the following in your `settings
 
 * k--kato.intellij-idea-keybindings
 * Gruntfuggly.todo-tree
+
+#### Quality of life
+
+* github.copilot
+* ms-azuretools.vscode-docker
