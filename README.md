@@ -32,6 +32,8 @@ We’re continuously building our library of resources to give you the informati
 
 Here the crew likes to share things that they found useful. We heartily encourage contribution. Just make ye pull request.
 
+[https://github.com/Yknot-BCS/yknot-wiki](https://github.com/Yknot-BCS/yknot-wiki)
+
 * [Developer resources](resources/)
   * IDE setup & extensions
   * Guides & tutorials
