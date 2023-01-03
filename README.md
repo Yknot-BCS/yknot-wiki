@@ -21,7 +21,7 @@ The first thing you need to do is get access to Discord, Telegram, GitHub and Ji
 
 Make sure we've added you on those platforms and get right into it with:
 
-* [CPanel Email Setup](broken-reference)
+* [CPanel Email Setup](resources/cpanel-email.md)
 * [First day installs](resources/day-1/)
 
 ## Getting it done
