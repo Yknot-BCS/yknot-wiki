@@ -1,6 +1,6 @@
 # Yknot Wiki
 
-⚓ Ahoy! Welcome to the Yknot chest of knowledge. This repo is a guide for people starting at Yknot. Our best practices & workflow are documented here.
+⚓ Ahoy! Welcome to the Yknot chest of knowledge. This repo is a guide for people starting at Yknot. Our best practices & workflow are documented here. If you would like to view the details of the Wiki within the Yknot Docs you can follow this link: https://docs.y-knot.io/
 
 ## About Us
 
