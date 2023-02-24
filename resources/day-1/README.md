@@ -10,7 +10,7 @@ Start by installing the following:
 
 1. A code editor. We recommend VS code:
    1. [https://code.visualstudio.com/](https://code.visualstudio.com/)
-   2. Settings and Plugins: [https://github.com/Yknot-BCS/yknot-wiki/blob/main/resources/vscode.md](../vscode.md)
+   2. [Settings and Plugins](vscode.md)
 2. The current LTS version of NodeJs:
    1. [https://nodejs.org/en/](https://nodejs.org/en/)
    2. We recommend installing via Node Version Manager:
@@ -33,7 +33,7 @@ At some point you will need to use docker
 1. Install docker for your system (Linux is best :P)
    1. [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
 
-
+When developing you can refer to [The Github Basics](github-basics.md)
 
 ## **Learning**
 

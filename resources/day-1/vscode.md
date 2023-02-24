@@ -30,6 +30,7 @@ You can enable auto formatting on save by adding the following in your `settings
 * jock.svg
 * octref.vetur
 * Vue.volar
+* ms-vscode-remote.remote-wsl
 
 **Smart Contracts**
 
@@ -46,7 +47,7 @@ You can enable auto formatting on save by adding the following in your `settings
 
 **Editor**
 
-* k--kato.intellij-idea-keybindings
+* intellij-idea-keybindings
 * Gruntfuggly.todo-tree
 
 #### Quality of life

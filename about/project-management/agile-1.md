@@ -30,9 +30,13 @@ When we do project management on Jira, we like to create a new branch for every 
 
 Start your branch name with the issue code and then the issue title, divided by dashes. For example `LEG-230-setup`.
 
-Jira simplifies the process by providing you with a line that you can paste in your terminal to do it for you. See the an example in the image below.
+Jira simplifies the process by providing you with a line that you can paste in your terminal to do it for you. See the example in the image below.
 
 ![Github integration example](../../agile/jira\_github\_integration.png)
+
+This will also redirect you to Github where you choose to create a branch from `develop`
+
+An alternative method to do this via VSCode can also be used given that you follow the naming convention. For this method you can copy the task number and add your task name to the number separated by dashes, (example `REC-123-My-new-task`). Within VSCode click the current branch option located at the bottom left. Choose the `Create new branch from` option and paste the branch name there. For the the `Branch from` option choose `develop`, then you can start with your task.
 
 ## Automation
 

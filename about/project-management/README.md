@@ -23,5 +23,5 @@ Our software development lifecycle usually looks like this:
 
 Our methodology (although not fixed) is [agile](agile.md), we put into practice with Jira. We managed our codebase with [Github](agile-1.md).
 
-
+When you have reached the documentation step of the development process and learned something useful that the whole crew should know, we want you to update the Yknot Wiki via Gitbook. In order to edit the Gitbook go [here](https://www.gitbook.com/). Do not choose sign up with Github, this will not give you access to the Gitbook. Rather sign in with docs@y-knot.io a sign-in email with a link will be sent to your @y-knot.io email address. If you did accedentally sign up with Github, then just clear the cache of your browser and try again.
 

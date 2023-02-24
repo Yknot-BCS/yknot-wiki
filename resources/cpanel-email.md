@@ -49,4 +49,5 @@ Copy the calendar url at the bottom of the page and go to your google calendar. 
 
 ![](../.gitbook/assets/image.png)
 
-All these steps should successfully set up your Y-knot account to work synchronously with Gmail.
+All these steps should successfully set up your Y-knot account to work synchronously with Gmail. If you would like to log into your Cpanel to check your inbox there take not that you do not use the Cpanel login or Cpanel ID login page, we use the Webmail page on a seperate server that can be found [here](https://y-knot.io:2096/).
+
